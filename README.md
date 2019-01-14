@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Description:
+- New users should look here to learn things
+- A second item in a list
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Features:
+- *slaps roof of car*
+- This baby can fit so many things in it
 
 ## Getting started
 
