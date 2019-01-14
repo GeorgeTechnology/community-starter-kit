@@ -35,4 +35,5 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+- WELCOME BITCHF
+- THIS IS SOME THINGS TO WRITE
